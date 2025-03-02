@@ -1,0 +1,9 @@
+[submodule "AstrancE"]
+	path = AstrancE
+	url = git@github.com:AstranciA/AstrancE.git
+[submodule "user"]
+	path = user
+	url = git@github.com:AstranciA/AstranceR.git
+[submodule "os"]
+	path = os
+	url = git@github.com:AstranciA/AstrancE.git
